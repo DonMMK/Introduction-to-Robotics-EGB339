@@ -1,0 +1,14 @@
+{
+    "run_flags":[
+        {
+            "use_vision":true, 
+            "cylinders_present":true,
+            "use_sync":false
+        },
+        {
+            "use_vision":true, 
+            "cylinders_present":true,
+            "use_sync":false
+        }
+    ]
+}

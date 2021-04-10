@@ -1,0 +1,9 @@
+- Changed all working units to milimetres instead of metres to align with the assessment task sheet
+
+- modified CoppeliaRobot.m to expect milimetre inputs instead of metres
+
+- Fixed the marking script to increase the tool tip approach distance threshold to 75mm instead of 50mm
+
+- Fixed an error with the marking script to not calculate the vision mark if the run flags are set to False causing an error
+
+
